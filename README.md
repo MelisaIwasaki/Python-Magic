@@ -1,3 +1,4 @@
-# Python-w3schools
+# Python Magic :mage:
 
-![photo-1624953587687-daf255b6b80a](https://user-images.githubusercontent.com/92184167/197853141-5df8c936-3240-441a-be1f-b48d79dc4b58.jpg)
+![photo-1594384151968-e1616fa703ea](https://user-images.githubusercontent.com/92184167/198880914-a56b88f8-8d31-4807-a766-b90ec7710281.jpg)
+
